@@ -22,12 +22,12 @@ body{
 
 #photo-bar{
 	height: 140px;
-	width: 500px;
+	width: 100%;
 	background-image: url("./images/Photo-Bar.png");
 }
 
 .pictures{
-	width: 
+	width: 100%;
 	display: inline-block;
 }
 
@@ -35,7 +35,21 @@ body{
 	height: 135px;
 	background-image: url("./images/Bottom-Bar.png")
 }
+
 .ig-image{
-	height:
-	width: 140px;
+	width: 33%;
+}
+
+#circle-pic {
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+#circle-pic img {
+    display: inline;
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
 }
