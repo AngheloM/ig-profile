@@ -1,0 +1,41 @@
+body{
+	background-color: pink;
+}
+
+#container{
+	width: 1080px;
+	text-align: center;
+	background-color: white;
+	border-width: 3px;
+	border-color: #DDDDDD;
+}
+
+#top-bar{
+	height: 145px;
+	background-image: url("./images/Top-Bar.png");
+}
+
+#follower-count{
+	height: 355px;
+	background-image: url("./images/Follower-Count.png");
+}
+
+#photo-bar{
+	height: 140px;
+	width: 500px;
+	background-image: url("./images/Photo-Bar.png");
+}
+
+.pictures{
+	width: 
+	display: inline-block;
+}
+
+#bottom-bar{
+	height: 135px;
+	background-image: url("./images/Bottom-Bar.png")
+}
+.ig-image{
+	height:
+	width: 140px;
+}
